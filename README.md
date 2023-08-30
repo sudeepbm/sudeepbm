@@ -34,9 +34,11 @@ If you found any of my works helpful, don't hesitate to share with others.
 </div>&nbsp;
 
 
+<!---
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeepbm&show_icons=true&locale=en&layout=compact&theme=dark" width="53%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeepbm&show_icons=true&locale=en&layout=compact&theme=dark" width="53%" alt="sudeepbm"/>
 </div>&nbsp;
+-->
 
 
 <div align="center">
@@ -44,7 +46,8 @@ If you found any of my works helpful, don't hesitate to share with others.
 </div>&nbsp;
 
 
+<!---
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sudeepbm&show_icons=true&locale=en&theme=dark" width="53%">
 </div>
-
+-->
